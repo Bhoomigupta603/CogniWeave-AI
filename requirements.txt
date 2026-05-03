@@ -1,0 +1,6 @@
+streamlit
+speechrecognition
+pyaudio
+fpdf
+python-dotenv
+groq
