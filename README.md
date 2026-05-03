@@ -26,7 +26,6 @@ CogniWeave AI is an intelligent system that generates **personalized learning ro
 
 ---
 
-```md id="fix123"
 ## Project Structure
 
 ```bash
@@ -49,10 +48,10 @@ CogniWeave-AI/
 │
 └── utils/
     └── helpers.py
-
+'''
 ---
 
-## How to Run
+## **How to Run**
 
 ```bash
 pip install -r requirements.txt
